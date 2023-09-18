@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\bin\Debug\LINQ-Query-primjer.exe.config
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\bin\Debug\LINQ-Query-primjer.exe
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\bin\Debug\LINQ-Query-primjer.pdb
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\obj\Debug\LINQ-Query-primjer.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\obj\Debug\LINQ-Query-primjer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\obj\Debug\LINQ-Query-primjer.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\obj\Debug\LINQ-Query-primjer.exe
+C:\Users\ucenik\Documents\LINQ-Query-primjer\LINQ-Query-primjer\obj\Debug\LINQ-Query-primjer.pdb
